@@ -14,7 +14,7 @@ function App() {
           and save to reload.
         </p>
 
-        <p>This is a test</p>
+        <p>This is a test.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
